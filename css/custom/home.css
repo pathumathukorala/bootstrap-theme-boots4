@@ -201,6 +201,11 @@ a:hover {
 
 @media (max-width: 767px){
 
+    .content {
+        height: 50vh;
+    }
+
+
     .center-block {
         padding-top: 20%;
         position: relative;
